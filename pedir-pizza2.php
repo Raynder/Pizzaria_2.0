@@ -345,7 +345,7 @@ $id = $_SESSION['id'];
         </section>
 
         <input id="carrinho" class="hidden" type="checkbox">
-
+        <!--SESSÃO DAS BEBIDAS DISPONIVEIS -->
         <section class="lateral">
             <label for="carrinho"><img id="car" src="_imagens/bebida.png" onclick="mostrarbeb()" width="80" height="80"></label>
 
@@ -371,6 +371,7 @@ $id = $_SESSION['id'];
             </div>
 
         </section>
+        <!--FIM DA SESSÃO DE BEBIDAS -->
 
 
     </div>

@@ -188,7 +188,13 @@ valor h2{
 @media (max-width: 991px) {
     #bebidas{
         display: none;
-        background-color: black;
+        background-color: rgba(150, 75, 0, 60%);
+    }
+    #bebidas img{
+        width: 30%;
+        margin: 1%;
+        background-color: rgb(245 162 81 / 68%);
+        border: 8px solid rgb(257, 140, 27, 50%);
     }
     .lateral{
         position: absolute;
