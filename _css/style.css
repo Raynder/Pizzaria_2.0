@@ -40,24 +40,24 @@ body{
         width: 100%;
     }
     .navbar{
-        padding: 40px;
+        padding: 10px;
     }
     .BoasVindas, .conteudo{
-        padding-top: 185px;
+        padding-top: 90px;
     }
     /*ADICIONANDO TAMBÉM AS ENTRADAS DA PAGINA DE PEDIDO*/
     section p, .entrada{
-        font-size: 40px;
+        font-size: 20px;
     }
     section h2, .entrada{
-        font-size: 80px;
+        font-size: 40px;
     }
     .navbar-light .navbar-nav .nav-link{
-        font-size: 40px;
-        padding-top: 80px;
+        font-size: 10px;
+        padding-top: 40px;
     }
     .bt-menu{
-        font-size: 60px;
+        font-size: 20px;
     }
 }
 /*FIM DA FORMATAÇÃO DA PAGINA INDEX */
@@ -137,24 +137,24 @@ valor h2{
         color: white;
     }
     .entrada{
-        height: 150px;
+        height: 50px;
     }
     ::-webkit-input-placeholder{
-        font-size: 40px;
+        font-size: 10px;
     }
     ::-moz-placeholder{
-        font-size: 40px;
+        font-size: 10px;
     }
     ::-ms-input-placeholder{
-        font-size: 40px;
+        font-size: 10px;
     }
     ::placeholder{
-        font-size: 40px;
+        font-size: 10px;
     }
     valor h2{
-        font-size: 70px;
-        line-height: 120px;
-        height: 92%;
+        font-size: 20px;
+        line-height: 40px;
+        height: 80%;
     }
 }
 #finalizar{
